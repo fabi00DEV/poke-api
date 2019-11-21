@@ -1,2 +1,2 @@
-# poke-api
-api rest with node js and mongodb
+# poke-api with node mongodb and TypeScript
+Project for express and typescript studies
